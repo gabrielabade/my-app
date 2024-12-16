@@ -60,3 +60,6 @@
 ### Testando a Aplicação
 9. Use o ID de um estabelecimento para gerar um QR Code.
 10. Escaneie o QR Code com o aplicativo para desbloquear o cupom de desconto.
+
+## Demonstração do projeto
+![Demonstração do projeto](./assets/images/preview.png)
